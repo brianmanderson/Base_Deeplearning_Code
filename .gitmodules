@@ -1,0 +1,6 @@
+[submodule "Keras_Utils"]
+	path = Keras_Utils
+	url = https://github.com/brianmanderson/Keras_Utils.git
+[submodule "Callbacks"]
+	path = Callbacks
+	url = https://github.com/brianmanderson/Callbacks.git

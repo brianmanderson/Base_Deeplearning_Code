@@ -1,19 +1,15 @@
 import os, sys
-sys.path.append(os.path.join('..','..','..','..','..'))
-sys.path.append(os.path.join('..','..','..','..','Models'))
-sys.path.append(os.path.join('..','..','..','..','CLR'))
-sys.path.append(os.path.join('..','..','..','..','..','Finding_Optimization_Parameters'))
-sys.path.append(os.path.join('..','..','..','..','..','Data_Generators'))
 from Data_Generators.Generators import Train_Data_Generator3D, Image_Clipping_and_Padding
 from keras.models import *
 import tensorflow as tf
 from keras.optimizers import Adam
 import pandas as pd
 from Keras_Utils.Keras_Utilities import dice_coef_3D_np, ModelCheckpoint_new, get_available_gpus, save_obj,load_obj, \
-    remove_non_liver, plot_scroll_Image, weighted_categorical_crossentropy, weighted_categorical_crossentropy_masked, dice_coef_3D, np, Fill_Missing_Segments
+    remove_non_liver, weighted_categorical_crossentropy, weighted_categorical_crossentropy_masked, dice_coef_3D, np, Fill_Missing_Segments
+from Plot_And_Scroll_Images.Plot_Scroll_Images import plot_scroll_Image
 from Callbacks.Visualizing_Model_Utils import TensorBoardImage
-from Keras_3D_Models import my_3D_UNet
-from clr_callback import CyclicLR
+from Models.Keras_3D_Models import my_3D_UNet
+from Cyclical_Learning_Rate.clr_callback import CyclicLR
 from Data_Generators.Return_Paths import Path_Return_Class
 
 

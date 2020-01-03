@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Base_Deeplearning_Code/.idea/Base_Deeplearning_Code.iml" filepath="$PROJECT_DIR$/Base_Deeplearning_Code/.idea/Base_Deeplearning_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/Liver_Lobe_Segments.iml" filepath="$PROJECT_DIR$/../.idea/Liver_Lobe_Segments.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Liver_Lobe_Segments_Code.iml" filepath="$PROJECT_DIR$/.idea/Liver_Lobe_Segments_Code.iml" />
     </modules>
   </component>

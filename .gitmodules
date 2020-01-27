@@ -22,3 +22,6 @@
 [submodule "Fill_Missing_Segments"]
 	path = Fill_Missing_Segments
 	url = https://github.com/brianmanderson/Fill_Missing_Segments.git
+[submodule "Visualizing_Model"]
+	path = Visualizing_Model
+	url = https://github.com/brianmanderson/Visualizing_Model.git

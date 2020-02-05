@@ -25,3 +25,6 @@
 [submodule "Visualizing_Model"]
 	path = Visualizing_Model
 	url = https://github.com/brianmanderson/Visualizing_Model.git
+[submodule "Send_Email_To_Phone"]
+	path = Send_Email_To_Phone
+	url = https://github.com/brianmanderson/Send_Email_To_Phone.git

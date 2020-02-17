@@ -28,3 +28,6 @@
 [submodule "Send_Email_To_Phone"]
 	path = Send_Email_To_Phone
 	url = https://github.com/brianmanderson/Send_Email_To_Phone.git
+[submodule "Make_Single_Images"]
+	path = Make_Single_Images
+	url = https://github.com/brianmanderson/Make_Single_Images

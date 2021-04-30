@@ -34,3 +34,6 @@
 [submodule "Dicom_RT_and_Images_to_Mask"]
 	path = Dicom_RT_and_Images_to_Mask
 	url = https://github.com/brianmanderson/Dicom_RT_and_Images_to_Mask.git
+[submodule "Image_Processors_Module"]
+	path = Image_Processors_Module
+	url = https://github.com/brianmanderson/Image_Processors_Module

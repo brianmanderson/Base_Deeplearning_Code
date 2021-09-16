@@ -34,3 +34,6 @@
 [submodule "Image_Processors_Module"]
 	path = Image_Processors_Module
 	url = https://github.com/brianmanderson/Image_Processors_Module
+[submodule "Resample_Class"]
+	path = Resample_Class
+	url = https://github.com/brianmanderson/Resample_Class

@@ -34,3 +34,6 @@
 [submodule "Resample_Class"]
 	path = Resample_Class
 	url = https://github.com/brianmanderson/Resample_Class
+[submodule "Make_Single_Images"]
+	path = Make_Single_Images
+	url = https://github.com/brianmanderson/Make_Single_Images

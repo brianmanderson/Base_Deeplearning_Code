@@ -7,9 +7,6 @@
 [submodule "Data_Generators"]
 	path = Data_Generators
 	url = https://github.com/brianmanderson/Data_Generators.git
-[submodule "Plot_And_Scroll_Images"]
-	path = Plot_And_Scroll_Images
-	url = https://github.com/brianmanderson/Plot_And_Scroll_Images.git
 [submodule "Models"]
 	path = Models
 	url = https://github.com/brianmanderson/Models.git

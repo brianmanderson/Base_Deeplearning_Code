@@ -2,4 +2,5 @@ numpy
 matplotlib
 SimpleITK
 PlotScrollNumpyArrays
+NiftiResampler
 tensorflow

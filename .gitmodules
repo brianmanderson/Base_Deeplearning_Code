@@ -25,9 +25,6 @@
 [submodule "Send_Email_To_Phone"]
 	path = Send_Email_To_Phone
 	url = https://github.com/brianmanderson/Send_Email_To_Phone.git
-[submodule "Make_Single_Images"]
-	path = Make_Single_Images
-	url = https://github.com/brianmanderson/Make_Single_Images
 [submodule "Dicom_RT_and_Images_to_Mask"]
 	path = Dicom_RT_and_Images_to_Mask
 	url = https://github.com/brianmanderson/Dicom_RT_and_Images_to_Mask.git
